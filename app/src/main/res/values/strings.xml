@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">E-Burjo</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBlVlE04N52tGbr2Cm03KdIBh3ZEVkm1fM</string>
+</resources>
